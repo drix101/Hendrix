@@ -2,10 +2,9 @@
 
 I'm a Software Engineer who is passionate about encouraging others to get in the industry. I enjoy community building, content creation and learning deeply about Javascript and Developer Advocacy.
 
-I've been working as a Front-End Engineer for the past two years and currently work as a Developer Advocate 🥑.
 
 
-### ✨ Connect with me on Instagram! 😊 ✨
+### ✨ Connect with me on my socials! 😊 ✨
 You can get in touch with me on [Twitter](https://x.com/_Hendrix231). You can also connect with me on [LinkedIn](www.linkedin.com/in/oyinlola-yusuf-lawal-4873b916b) or [send me an email](hoyheenlawlarlawal@gmail.com).
 
 <!--
